@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="time" table="x_270270_wellness_availability" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>8:00 AM</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a75091437602300b852ea4873990e4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+            <value>8:00 AM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>9:00 AM</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ea75091437602300b852ea4873990e4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+            <value>9:00 AM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>10:00 AM</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa75091437602300b852ea4873990e4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+            <value>10:00 AM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>11:00 AM</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a75091437602300b852ea4873990e4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+            <value>11:00 AM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>12:00 PM</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a75091437602300b852ea4873990e4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+            <value>12:00 PM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1:00 PM</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e675091437602300b852ea4873990e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+            <value>1:00 PM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2:00 PM</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a675091437602300b852ea4873990e51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+            <value>2:00 PM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3:00 PM</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6675091437602300b852ea4873990e52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+            <value>3:00 PM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4:00 PM</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2675091437602300b852ea4873990e53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+            <value>4:00 PM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5:00 PM</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e275091437602300b852ea4873990e54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+            <value>5:00 PM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>time</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6:00 PM</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e75c91437602300b852ea4873990e4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+            <value>6:00 PM</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>time</element>
+            <name>x_270270_wellness_availability</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:49:35</sys_created_on>
+            <sys_id>a275091437602300b852ea4873990e4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>time</sys_name>
+            <sys_package display_value="Wellness" source="x_270270_wellness">5c02161337502300b852ea4873990e07</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wellness">5c02161337502300b852ea4873990e07</sys_scope>
+            <sys_update_name>sys_choice_x_270270_wellness_availability_time</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:49:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

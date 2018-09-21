@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Register" max_length="40" name="x_270270_wellness_register" type="collection">
+        <element label="Employee ID" max_length="32" name="employee_id" reference="sys_user" type="reference"/>
+        <element label="Instructors Classes" max_length="32" name="instructors_available" reference="x_270270_wellness_instructor" reference_qual="javascript:'class_type='+ current.type_of_class" type="reference" use_reference_qualifier="advanced"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Type of Class" max_length="32" name="type_of_class" reference="x_270270_wellness_class" type="reference">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="type_of_class"/>
+        </index>
+        <index name="index2">
+            <element name="employee_id"/>
+        </index>
+        <index name="index3">
+            <element name="instructors_available"/>
+        </index>
+    </element>
+</database>

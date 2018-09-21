@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="type_of_class" label="Type of Class" language="en" table="x_270270_wellness_register">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>type_of_class</element>
+            <help/>
+            <hint/>
+            <label>Type of Class</label>
+            <language>en</language>
+            <name>x_270270_wellness_register</name>
+            <plural>Type of Class</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-11 18:51:04</sys_created_on>
+            <sys_id>61564f6037242300b852ea4873990eb2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Type of Class</sys_name>
+            <sys_package display_value="Wellness" source="x_270270_wellness">5c02161337502300b852ea4873990e07</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wellness">5c02161337502300b852ea4873990e07</sys_scope>
+            <sys_update_name>sys_documentation_x_270270_wellness_register_type_of_class_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-11 18:51:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

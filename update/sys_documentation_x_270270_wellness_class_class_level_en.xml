@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="class_level" label="Class Level" language="en" table="x_270270_wellness_class">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>class_level</element>
+            <help/>
+            <hint/>
+            <label>Class Level</label>
+            <language>en</language>
+            <name>x_270270_wellness_class</name>
+            <plural>Class Levels</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:54:06</sys_created_on>
+            <sys_id>bc86855437602300b852ea4873990e10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Class Level</sys_name>
+            <sys_package display_value="Wellness" source="x_270270_wellness">5c02161337502300b852ea4873990e07</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wellness">5c02161337502300b852ea4873990e07</sys_scope>
+            <sys_update_name>sys_documentation_x_270270_wellness_class_class_level_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:54:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

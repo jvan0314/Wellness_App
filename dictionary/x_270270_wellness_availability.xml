@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Availability" max_length="40" name="x_270270_wellness_availability" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Available ID" max_length="40" name="available_id" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Day" mandatory="true" max_length="40" name="day" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Monday" sequence="0" value="Monday"/>
+                <element inactive_on_update="false" label="Tuesday" sequence="1" value="Tuesday"/>
+                <element inactive_on_update="false" label="Wednesday" sequence="2" value="Wednesday"/>
+                <element inactive_on_update="false" label="Thursday" sequence="3" value="Thursday"/>
+                <element inactive_on_update="false" label="Friday" sequence="4" value="Friday"/>
+                <element inactive_on_update="false" label="Saturday" sequence="5" value="Saturday"/>
+                <element inactive_on_update="false" label="Sunday" sequence="6" value="Sunday"/>
+            </choice>
+        </element>
+        <element choice="1" label="Time" mandatory="true" max_length="40" name="time" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="8:00 AM" sequence="0" value="8:00 AM"/>
+                <element inactive_on_update="false" label="9:00 AM" sequence="1" value="9:00 AM"/>
+                <element inactive_on_update="false" label="10:00 AM" sequence="2" value="10:00 AM"/>
+                <element inactive_on_update="false" label="11:00 AM" sequence="3" value="11:00 AM"/>
+                <element inactive_on_update="false" label="12:00 PM" sequence="4" value="12:00 PM"/>
+                <element inactive_on_update="false" label="1:00 PM" sequence="5" value="1:00 PM"/>
+                <element inactive_on_update="false" label="2:00 PM" sequence="6" value="2:00 PM"/>
+                <element inactive_on_update="false" label="3:00 PM" sequence="7" value="3:00 PM"/>
+                <element inactive_on_update="false" label="4:00 PM" sequence="8" value="4:00 PM"/>
+                <element inactive_on_update="false" label="5:00 PM" sequence="9" value="5:00 PM"/>
+                <element inactive_on_update="false" label="6:00 PM" sequence="10" value="6:00 PM"/>
+            </choice>
+        </element>
+    </element>
+</database>

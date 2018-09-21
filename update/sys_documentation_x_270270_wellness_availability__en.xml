@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Availability" language="en" table="x_270270_wellness_availability">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Availability</label>
+            <language>en</language>
+            <name>x_270270_wellness_availability</name>
+            <plural>Availabilities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-10 14:39:36</sys_created_on>
+            <sys_id>28338d9037602300b852ea4873990e64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Availability</sys_name>
+            <sys_package display_value="Wellness" source="x_270270_wellness">5c02161337502300b852ea4873990e07</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wellness">5c02161337502300b852ea4873990e07</sys_scope>
+            <sys_update_name>sys_documentation_x_270270_wellness_availability__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-10 14:39:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

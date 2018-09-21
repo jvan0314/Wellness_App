@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Class" max_length="40" name="x_270270_wellness_class" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Class ID" max_length="40" name="class_id" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Class Level" mandatory="true" max_length="40" name="class_level" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Beginner" sequence="0" value="Beginner"/>
+                <element inactive_on_update="false" label="Intermediate" sequence="1" value="Intermediate"/>
+                <element inactive_on_update="false" label="Advanced" sequence="2" value="Advanced"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Class Type" mandatory="true" max_length="40" name="class_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yoga" sequence="0" value="Yoga"/>
+                <element inactive_on_update="false" label="Spin" sequence="1" value="Spin"/>
+            </choice>
+        </element>
+    </element>
+</database>
